@@ -8,5 +8,3 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/12/wind
 
 ;2021-12 Windows 10 1809 基于 x64 系统的累计更新
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows10.0-kb5008218-x64_66e07f2fc23728ca0b8f395df15da52546e45e45.msu
-
-
